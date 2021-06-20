@@ -1,0 +1,21 @@
+.thumbnail {background-color: #eee;}
+    body {margin-top: 50px;}
+    .thumbnail .caption {background-color: #ddd;}
+	
+	.sample {
+    text-align: center;
+}
+
+   .container {background-color: #eee;}
+   
+   .input {
+  width: 90%;
+}
+
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
